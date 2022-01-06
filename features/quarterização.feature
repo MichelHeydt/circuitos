@@ -3,7 +3,7 @@
 
 
 @quarterizacao
-
+Funcionalidade:
   Validação erro ao trocar quarto selecionado
 
 Contexto: 
