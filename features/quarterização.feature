@@ -1,7 +1,9 @@
 #language: pt
 #feature referente aos bugs https://cvccorp.atlassian.net/browse/TMTCCI-157 e https://cvccorp.atlassian.net/browse/TMTCCI-158
+
+
 @quarterizacao
-Funcionalidade: Validação erro ao trocar quarto selecionado
+
   Validação erro ao trocar quarto selecionado
 
 Contexto: 
