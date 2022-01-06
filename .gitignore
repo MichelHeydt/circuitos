@@ -1,0 +1,6 @@
+vendor
+*.png
+*.html
+*.json
+*.retry
+*.zip

@@ -1,0 +1,62 @@
+
+url:
+  prod: 'https://www.cvc.com.br/'
+  qa: 'https://qa.cvc.com.br/'
+  ti: 'https://ti.cvc.com.br'
+  lo: 'http://local.cvc:3000/tours/'
+
+corona:  
+  text: 'Precisa mudar a data da sua viagem?' #MICHEL
+  warning: '#coronaWarning'
+
+header_text:
+  #telemarketing: 'Televendas: Temporariamente indisponível'  #MICHEL
+  callcenter: 'Central de atendimento:'
+  help: 'Precisa de ajuda?'
+  signup: 'Cadastre-se'
+  signin_prod: '.MuiTypography-body1'
+
+welcome_text: 
+  cvc: 'A viagem dos seus sonhos começa na CVC'
+  air: 'Ofertas imperdíveis de voos nacionais e internacionais'
+  hotel: 'Todos os tipos de hospedagem para sua viagem'
+  package: 'Pacotes completos com o melhor serviço e assistência CVC'
+  tours: 'Olá, encontre aqui os melhores circuitos para sua viagem'
+
+header_menu:
+  text_air: 'Passagens'
+  text_hotel: 'Hotéis'
+  text_package: 'Pacotes'
+  text_disney: 'Disney'
+  text_tours: 'Circuitos'
+  text_plus: 'Mais'
+  text_cvccard: 'Cartão CVC'
+  air: '#menu-passagens'
+  hotel: '#menu-hoteis'
+  package: '#menu-pacotes'
+  disney: '#menu-disney'
+  tours: '#menu-tour'
+  cvccard: '#menu-cartao'
+
+search_motor:
+  text_pesqinc: 'Escolha até 5 cidades na Europa, Ásia ou África para sua viagem'
+  text_btn_search: 'Buscar circuitos'
+  pesqinc: '.fieldContainer'
+  button_add: ''
+  button_search: ''
+  input: '#pesqinc-input'
+  choice: '.MuiListItem-button' #MICHEL
+  choice_mobile: '/html/body/div[1]/div[3]/div[2]/div/div/div[2]/div/div[1]/div/div[1]/div/div[2]/div[2]/nav/div'
+  # confirm: "//text()[.=#{tours.sample}]/ancestor::div[1]"
+  confirm: '.jss449'
+  checkbox_multisearch: '.style__CheckboxContainer-q9xm77-5'  #MICHEL
+  text_multisearch: 'Buscar qualquer um dos destinos'
+  calendar: ".style__StyledDateField-sc-10nyr4n-0"  #MICHEL
+  calendar_mobile: '/html/body/div[1]/div[3]/div[2]/div/div/div[2]/div/div[3]/div/div[1]/div/div/div'
+  calendar_mobile_lo: '/html/body/div[1]/div/div/div/div[2]/div[2]/div/div[3]/div/div[1]/div/div/div/div'
+  pick_date: "[data-value='2021-11']"
+
+listing:
+  warning: 'Preço por viajante em um quarto duplo'
+  card: '.jss457'
+  title_card: '.jss57'
